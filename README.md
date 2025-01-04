@@ -18,8 +18,8 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/Niraj21611/react-crust.git
-   cd react-crust
+   git clone https://github.com/Niraj21611/rapid-crust.git
+   cd rapid-crust
    ```  
 
 2. **Install dependencies**:  
